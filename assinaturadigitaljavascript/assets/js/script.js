@@ -109,6 +109,7 @@ $(function(){
 	*/	
 
 	//******** Assinar ********
+	
 
 	$('#step3 .cardreader').click(function(){
 		if(loadingPrivateKeyStandard()){
